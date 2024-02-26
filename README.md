@@ -1,7 +1,3 @@
-Sure, here's a short README for the Miller-Rabin primality test function:
-
----
-
 # Miller-Rabin Primality Test
 
 ## Overview
